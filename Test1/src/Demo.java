@@ -11,6 +11,6 @@ public class Demo {
 
 	
 	public static void newMethod() {
-		System.out.println("Hai boss Namastey Bahi");
+		System.out.println("Hai");
 	}
 }
